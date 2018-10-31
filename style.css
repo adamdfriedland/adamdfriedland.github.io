@@ -10,3 +10,10 @@ div {
 h2 {
     Text-decoration: underline;
 }
+
+body {
+	height: 100%;
+	margin: 0;
+	font-family: garamond;
+	width: 100%;
+}
