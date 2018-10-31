@@ -5,12 +5,12 @@ p {
 div.a {
      text-align: center;
      width: 100%;
-     line-height: normal;
+     line-height: 100%;
 }
 
 div.b {
    text-align: left;   
-   line-height: .5;
+   line-height: 100%;
 }
 
 h2 {
