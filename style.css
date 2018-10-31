@@ -2,13 +2,13 @@ p {
    color: black;
 }
 
-div.a {
+.a {
      text-align: center;
      width: 100%;
      line-height: 100%;
 }
 
-div.b {
+.b {
    text-align: left;   
    line-height: 100%;
 }
