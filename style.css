@@ -8,8 +8,9 @@ div.a {
      line-height: normal;
 }
 
-div {
-      line-height: 1;
+div.b {
+   text-align: left;   
+   line-height: .5;
 }
 
 h2 {
