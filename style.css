@@ -3,6 +3,10 @@ color: black;
 }
 
 div {
-  text-align: center
-    width: 100%
+     text-align: center;
+     width: 100%;
+}
+
+h2 {
+    Text-decoration: underline;
 }
