@@ -11,11 +11,16 @@ h2 {
     Text-decoration: underline;
 }
 
+h3 {
+   font-style: italic;
+}
+
 body {
       height: 100%;
       margin: 0;
       font-family: garamond;
       width: 100%;
+      border-style: solid;
 }
 
 ul {
